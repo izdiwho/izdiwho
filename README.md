@@ -1,2 +1,2 @@
-# 👋 **Izdihar**  
+# **Izdihar**  🧙‍♂️
 Hello World!
